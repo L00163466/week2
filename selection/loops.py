@@ -6,7 +6,7 @@
 # Version     : v1.0.0
 # Licencing   : (C) 2021 Aravind Rajesh Kanna, LYIT
                 Available under GNU Public License (GPL)
-# Creadits    :
+# Credits    :
 # Maintainer  :
 # Description : Loops example
 #
