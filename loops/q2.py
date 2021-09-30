@@ -18,8 +18,6 @@ if __name__ == '__main__':
     evenNumber = 0
     oddNumber = 0
     for i in range(1, int(maxNumber)+1):
-        if i == 0 or i == 1:
-            continue
         if (i % 2) == 0:
             evenNumber += 1
         else:
